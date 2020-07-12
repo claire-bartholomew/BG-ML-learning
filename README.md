@@ -8,10 +8,10 @@ Instructions for running jupyter notebooks:
 1. Pull these notebooks from this repo to your working directory
   (Or simply copy from /scratch/cbarth/BG_ML if unfamiliar with git)
 2. From working directory run the following in the terminal (e.g. for the Random Forest notebook):
-
-> module load scitools
-> jupyter notebook Random_Forest_Tutorial.ipynb
-
+'''ruby
+module load scitools
+jupyter notebook Random_Forest_Tutorial.ipynb
+'''
 (if asked for password credentials, use your normal Windows username/password)
 
 This should load up a Firefox page with the Jupyter notebook which you can interactively work through.
