@@ -38,6 +38,6 @@ Any questions, just ask Karen or Claire or post them on the MS Teams Machine Lea
 - Caltech "Learning from Data" course: https://work.caltech.edu/lectures.html
 - Google's Machine Learning crash course: https://developers.google.com/machine-learning/crash-course/
 - NCAR's Machine Learning Summer School lectures: https://www.youtube.com/playlist?list=PLbelYhZAAHEIr4iC1FNcPXUUYXI0zg_96
--Data Science Community of Practice Yammer and Sharepoint: https://metoffice.sharepoint.com/sites/MetOfficeDataScienceCommunity
+- Data Science Community of Practice Yammer and Sharepoint: https://metoffice.sharepoint.com/sites/MetOfficeDataScienceCommunity
 - Most papers in the ML community are on arXiv
 
